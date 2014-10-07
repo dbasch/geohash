@@ -1,6 +1,6 @@
 # Geohash
 
-A Clojure library for encoding/decoding	[geohashes](http://en.wikipedia.org/wiki/Geohash) with performance comparable to the [reference Java implementation](https://github.com/kungfoo/geohash-java).
+A Clojure library for encoding/decoding	[geohashes](http://en.wikipedia.org/wiki/Geohash) with performance comparable to the [reference Java implementation](https://github.com/kungfoo/geohash-java). Adapted from https://github.com/talkto/geohash/ (30x slower and not correct as of 10/2014).
 
 ## Usage
 
